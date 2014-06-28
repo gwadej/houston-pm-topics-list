@@ -12,41 +12,43 @@ Please add your github id if you're generally available to give a talk about som
 
    * estrabd
    * gwadej
-   * ...
+   * rurban
 
 Active Topics List
 ==================
 
-Current talk ideas -
+Current talk ideas - 
 
-| Talk Title                                         | Experience Level  | Description                        |   |
-|----------------------------------------------------|-------------------|------------------------------------|---|
-| Regular expressions (chapter from Mastering Perl)  | Intermediate+     | lookahead, @-, @+, /x              |   |
-| Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE             |   |
-| Introduction to blocks and closures                | Any               | fundamental things with {}         |   |
-| Top 10 "must see" YAPC Talks of "all time"         | Any               |                                    |   |
-| Basic parsing from scratch                         | Any               | recursive descent, ll, lr          |   |
-| Genetic algorithms in Perl - basic concepts        | Any               | basic fitness                      |   |
-| Dynamic programming concepts in Perl               | Intermediate+     | basic concepts, Perl e.g.          |   |
-| Perl is not a language, it is liquid Unix^TM       | Any               | not sure yet                       |   |
-| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                       |   |
-| Threading with Qore (follow to last Qore talk)     | Any               | not sure yet                       |   |
-| Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research                     |   |
-| The Programming Power Tool, Your Editor            | Any               | Why you should grok your editor    |   |
-| Intermediate vim                                   | Intermediate+     | Getting more out of vim            |   |
-| Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest |   |
-| Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          |   |
-| Markov Chains                                      | Intermediate+     |                                    |   |
-| List operations in Perl                            | Any               | map, grep, reduce, etc.            |   |
-| Roles for Object Composition                       | Any               |                                    |   |
-| Packaging Perl applications with Docker            | Any               |                                    |   |
+| Talk Title                                         | Experience Level  | Description                        | Added By |
+|----------------------------------------------------|-------------------|------------------------------------|----------|
+| Regular expressions (chapter from Mastering Perl)  | Intermediate+     | lookahead, @-, @+, /x              | estrabd  |
+| Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE             | estrabd  |
+| Introduction to blocks and closures                | Any               | fundamental things with {}         | estrabd  |
+| Top 10 "must see" YAPC Talks of "all time"         | Any               |                                    | estrabd  | 
+| Basic parsing from scratch                         | Any               | recursive descent, ll, lr          | estrabd  | 
+| Genetic algorithms in Perl - basic concepts        | Any               | basic fitness                      | estrabd  |
+| Dynamic programming concepts in Perl               | Intermediate+     | basic concepts, Perl e.g.          | estrabd  |
+| Perl is not a language, it is liquid Unix^TM       | Any               | not sure yet                       | estrabd  |
+| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                       | estrabd  | 
+| Threading with Qore (follow to last Qore talk)     | Any               | not sure yet                       | estrabd  |
+| Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research                     | estrabd  |
+| Global Destruction                                 | Intermediate+     | how, costs, issues, why not        | rurban   |
+| types (rperl and other plans)                      | Intermediate+     | why, how                           | rurban   |
+| The Programming Power Tool, Your Editor            | Any               | Why you should grok your editor    | gwadej   |
+| Intermediate vim                                   | Intermediate+     | Getting more out of vim            | gwadej   |
+| Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest | gwadej   |
+| Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          | gwadej   |
+| Markov Chains                                      | Intermediate+     |                                    | gwadej   |
+| List operations in Perl                            | Any               | map, grep, reduce, etc.            | gwadej   |
+| Roles for Object Composition                       | Any               |                                    | gwadej   |
+| Packaging Perl applications with Docker            | Any               |                                    | gwadej   |
 
 Archived Topics List
 ====================
 
 These are talks that have been retired due to having been given recently or deemed no longer interesting.
 
-| Talk Title                                         | Experience Level  | Date Given   | By Whom  | URL                  |
+| Talk Title                                         | Experience Level  | Date Given   |   Who    | URL                  |
 |----------------------------------------------------|-------------------|--------------|----------|----------------------|
 | Perl and Bioinformatics                            |                   | June 2014    |          | http://goo.gl/tkhonM |
 | Indexing with Sphinx and Perl                      | Any               | May 2014     | estrabd  | http://goo.gl/FDGHSy |
