@@ -11,26 +11,35 @@ Available Speakers
 Please add your github id if you're generally available to give a talk about something.
 
    * estrabd
-   * ... 
+   * gwadej
+   * ...
 
 Active Topics List
 ==================
 
-Current talk ideas - 
+Current talk ideas -
 
-| Talk Title                                         | Experience Level  | Description                  |   |
-|----------------------------------------------------|-------------------|------------------------------|---|
-| Regular expressions (chapter from Mastering Perl)  | Intermediate+     | lookahead, @-, @+, /x        |   |
-| Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE       |   |
-| Introduction to blocks and closures                | Any               | fundamental things with {}   |   |
-| Top 10 "must see" YAPC Talks of "all time"         | Any               |                              |   | 
-| Basic parsing from scratch                         | Any               | recursive descent, ll, lr    |   | 
-| Genetic algorithms in Perl - basic concepts        | Any               | basic fitness                |   |
-| Dynamic programming concepts in Perl               | Intermediate+     | basic concepts, Perl e.g.    |   |
-| Perl is not a language, it is liquid Unix^TM       | Any               | not sure yet                 |   |
-| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                 |   | 
-| Threading with Qore (follow to last Qore talk)     | Any               | not sure yet                 |   |
-| Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research               |   |
+| Talk Title                                         | Experience Level  | Description                        |   |
+|----------------------------------------------------|-------------------|------------------------------------|---|
+| Regular expressions (chapter from Mastering Perl)  | Intermediate+     | lookahead, @-, @+, /x              |   |
+| Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE             |   |
+| Introduction to blocks and closures                | Any               | fundamental things with {}         |   |
+| Top 10 "must see" YAPC Talks of "all time"         | Any               |                                    |   |
+| Basic parsing from scratch                         | Any               | recursive descent, ll, lr          |   |
+| Genetic algorithms in Perl - basic concepts        | Any               | basic fitness                      |   |
+| Dynamic programming concepts in Perl               | Intermediate+     | basic concepts, Perl e.g.          |   |
+| Perl is not a language, it is liquid Unix^TM       | Any               | not sure yet                       |   |
+| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                       |   |
+| Threading with Qore (follow to last Qore talk)     | Any               | not sure yet                       |   |
+| Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research                     |   |
+| The Programming Power Tool, Your Editor            | Any               | Why you should grok your editor    |   |
+| Intermediate vim                                   | Intermediate+     | Getting more out of vim            |   |
+| Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest |   |
+| Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          |   |
+| Markov Chains                                      | Intermediate+     |                                    |   |
+| List operations in Perl                            | Any               | map, grep, reduce, etc.            |   |
+| Roles for Object Composition                       | Any               |                                    |   |
+| Packaging Perl applications with Docker            | Any               |                                    |   |
 
 Archived Topics List
 ====================
@@ -40,7 +49,7 @@ These are talks that have been retired due to having been given recently or deem
 | Talk Title                                         | Experience Level  | Date Given   | By Whom  | URL                  |
 |----------------------------------------------------|-------------------|--------------|----------|----------------------|
 | Perl and Bioinformatics                            |                   | June 2014    |          | http://goo.gl/tkhonM |
-| Indexing with Sphinx and Perl                      | Any               | May 2014     | estrabd  | http://goo.gl/FDGHSy | 
+| Indexing with Sphinx and Perl                      | Any               | May 2014     | estrabd  | http://goo.gl/FDGHSy |
 | Beginning Moose                                    |                   | April 2014   |          | http://goo.gl/4cvQUD |
 | Introducing Erlang                                 |                   | March 2014   |          | http://goo.gl/vs7r1u |
 | Pseudo-Random Number Generation - How it Works,... |                   | Feb 2014     |          | http://goo.gl/xco53e |
@@ -48,6 +57,7 @@ These are talks that have been retired due to having been given recently or deem
 
 (listing talks from following URLs in progress)
 
+   * [All Houston.pm Talks](http://houston.pm.org/talks/)
    * http://houston.pm.org/talks/2013/talks/index.html
    * http://houston.pm.org/talks/2012/talks/index.html
    * http://houston.pm.org/talks/2011/talks/index.html
