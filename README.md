@@ -17,19 +17,19 @@ Please add your github id if you're generally available to give a talk about som
 Active Topics List
 ==================
 
-Current talk ideas - 
+Current talk ideas -
 
 | Talk Title                                         | Experience Level  | Description                        | Added By |
 |----------------------------------------------------|-------------------|------------------------------------|----------|
 | Regular expressions (chapter from Mastering Perl)  | Intermediate+     | lookahead, @-, @+, /x              | estrabd  |
 | Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE             | estrabd  |
 | Introduction to blocks and closures                | Any               | fundamental things with {}         | estrabd  |
-| Top 10 "must see" YAPC Talks of "all time"         | Any               |                                    | estrabd  | 
-| Basic parsing from scratch                         | Any               | recursive descent, ll, lr          | estrabd  | 
+| Top 10 "must see" YAPC Talks of "all time"         | Any               |                                    | estrabd  |
+| Basic parsing from scratch                         | Any               | recursive descent, ll, lr          | estrabd  |
 | Genetic algorithms in Perl - basic concepts        | Any               | basic fitness                      | estrabd  |
 | Dynamic programming concepts in Perl               | Intermediate+     | basic concepts, Perl e.g.          | estrabd  |
 | Perl is not a language, it is liquid Unix^TM       | Any               | not sure yet                       | estrabd  |
-| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                       | estrabd  | 
+| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                       | estrabd  |
 | Threading with Qore (follow to last Qore talk)     | Any               | not sure yet                       | estrabd  |
 | Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research                     | estrabd  |
 | Global Destruction                                 | Intermediate+     | how, costs, issues, why not        | rurban   |
@@ -39,9 +39,12 @@ Current talk ideas -
 | Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest | gwadej   |
 | Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          | gwadej   |
 | Markov Chains                                      | Intermediate+     |                                    | gwadej   |
-| List operations in Perl                            | Any               | map, grep, reduce, etc.            | gwadej   |
+| List operations in Perl                            | Any               | map, grep, reduce, etc. List::Utils| gwadej   |
 | Roles for Object Composition                       | Any               |                                    | gwadej   |
 | Packaging Perl applications with Docker            | Any               |                                    | gwadej   |
+| Beginning Regular Expressions                      | Any               | Regexp features you should know    | gwadej   |
+| Intermediate Regular Expressions                   | Any               | Get more out of your regexps       | gwadej   |
+| Perl Tips, Tricks, and Traps                       | Any               | Update to older talk               | gwadej   |
 
 Archived Topics List
 ====================
