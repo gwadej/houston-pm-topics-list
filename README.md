@@ -53,6 +53,9 @@ Current talk ideas -
 | How your grandpa did OOP in Perl                   | Any               | pre-postmodern-"MOP" OOP in Perl   | estrabd   |
 | Writing scripts as modulinos                       | Any               | dual life modulino scripts, testing| estrabd   |
 | Computer science & Perl                            | Any               | complexity, trees, graph traversal | estrabd   | 
+| HMAC key/secret based web authentication           | Any               | how to use others, set up your own | estrabd   |
+| Implementing two factor authentication on a website| Any               | using Google Auth                  | estrabd   |
+| A beginner's experience with Perl's encryption mods| Any               | (non-)symmetric encryption in Perl | estrabd   |
 
 Archived Topics List
 ====================
