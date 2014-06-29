@@ -13,6 +13,7 @@ Please add your github id if you're generally available to give a talk about som
    * estrabd
    * gwadej
    * rurban
+   * mrallen1  
 
 Active Topics List
 ==================
@@ -42,6 +43,10 @@ Current talk ideas -
 | List operations in Perl                            | Any               | map, grep, reduce, etc.            | gwadej   |
 | Roles for Object Composition                       | Any               |                                    | gwadej   |
 | Packaging Perl applications with Docker            | Any               |                                    | gwadej   |
+| Functional programming in Perl                     | Intermediate      | higher order Perl (thanks mjd)     | mrallen1  |
+| Getting going with Dist::Zilla                     | Intermediate      | Less CPAN drudgery, more fun       | mrallen1  |
+| Using Roles in Moo(se)                             | Intermediate      | Exploit the power of composition   | mrallen1  |
+| Introduction to Golang for the Perl hacker         | Beginner          | Golang is fun and awesome          | mrallen1  |
 
 Archived Topics List
 ====================
