@@ -73,46 +73,46 @@ These are talks that have been retired due to having been given recently or deem
 | Pseudo-Random Number Generation - How it Works,... | Feb 2014     |          | http://goo.gl/xco53e | |
 | Migrate ALL THE THINGS                             | January 2014 |          | http://goo.gl/gzGUuV | |
 | [2013](http://houston.pm.org/talks/2013talks/index.html) ||||
-| Bitcoin Payment Processing | November 2013 | | | |
-| A JSON parser regex | October 2013 | | | |
-| An Introduction to Work Queuing with Redis.pm | August 2013 estrabd | | | |
-| p2: The Design and VM of a Next Generation Perl (11 = 5+6) | June 2013 rurban | | | |
-| Pari/GP and Perl - Past, Present and Future | March 2013  | | | |
-| Auditing CPAN for Security Vulnerabilities | April 2013 | | | |
-| A Web-based Defect Management/Tracking System Developed Non-Programmer | January 2013 | | | |
+| Bitcoin Payment Processing | November 2013 | | http://goo.gl/Up2xDN | |
+| A JSON parser regex | October 2013 | | http://goo.gl/wt7QsB | |
+| An Introduction to Work Queuing with Redis.pm | August 2013 estrabd | | http://goo.gl/rmpyDv | |
+| p2: The Design and VM of a Next Generation Perl (11 = 5+6) | June 2013 rurban | | http://goo.gl/GWTRb9 | |
+| Pari/GP and Perl - Past, Present and Future | March 2013  | | http://goo.gl/zqPLw0 | |
+| Auditing CPAN for Security Vulnerabilities | April 2013 | | http://goo.gl/X8kJcV | |
+| A Web-based Defect Management/Tracking System Developed Non-Programmer | January 2013 | | http://goo.gl/pGvOV6 | |
 | [2012](http://houston.pm.org/talks/2012talks/index.html) ||||
-| Automating Daily Tasks | November 2012 gwadej | | | |
+| Automating Daily Tasks | November 2012 gwadej | | http://goo.gl/nYJKUM | |
 | Bag of Tricks | October 2012 | | | |
-| A Small On Line Wellness Business Built Using Perl | September 2012 | | | |
-| Intro to Git for Perl Hackers | July 2012 mrallen1  | | | |
-| Perl Unit Testing: Tools and Techniques | June 2012 gwadej | | | |
-| Perl Platform as a Service Shootout | May 2012 mrallen1 | | | |
-| App::perlall | April 2012 rurban | | | |
-| Advanced Modulinos | March 2012 | | | |
-| DistZilla from one newb to another | Feb 2012 | | | |
-| Perl Object? | Jan 2012 | | | |
+| A Small On Line Wellness Business Built Using Perl | September 2012 | | http://goo.gl/zQBvCt | |
+| Intro to Git for Perl Hackers | July 2012 mrallen1  | | http://goo.gl/CkYeUs | |
+| Perl Unit Testing: Tools and Techniques | June 2012 gwadej | | http://goo.gl/gOz5ly | |
+| Perl Platform as a Service Shootout | May 2012 mrallen1 | | http://goo.gl/Qk99mr | |
+| App::perlall | April 2012 rurban | | http://goo.gl/mTFi13 | |
+| Advanced Modulinos | March 2012 | | http://goo.gl/mM1jhg | |
+| DistZilla from one newb to another | Feb 2012 | |http://goo.gl/4f7BqY | |
+| Perl Object? | Jan 2012 | | http://goo.gl/pI3XK9 | |
 | [2011](http://houston.pm.org/talks/2011talks/index.html) ||||
-| My Perl Bag of Tricks | November 2011 | | | |
-| The Perl Compiler | October 2011 rurban | | | |
-| Bit Hacks on IP Ranges | September 2011 | | | |
-| The Qore Language ... for Perl Programmers | September 2011 | | | |
-| Intro to Dancer | August 2011 | | | |
-| Cooking with Cobbler | July 2011 | | | |
-| Introduction to Perl: Testing | May 2011 | | | |
-| Automated Browser Interaction Using WWW::Selenium 2011 | | | |
-| Your Perl is Slow (and it does not have to be) | January 2011 | | | |
-| Filesys::POSIX -- A real, in-memory filesystem written entirely in Perl | November 2011 | | | |
+| My Perl Bag of Tricks | November 2011 | | http://goo.gl/Z7aQCr | |
+| The Perl Compiler | October 2011 rurban | | http://goo.gl/xAovYj | |
+| Bit Hacks on IP Ranges | September 2011 | | http://goo.gl/pq5cNO | |
+| The Qore Language ... for Perl Programmers | September 2011 | | http://goo.gl/Zv4mWF | |
+| Intro to Dancer | August 2011 | | http://goo.gl/hNlKJn | |
+| Cooking with Cobbler | July 2011 | | http://goo.gl/dyCC9P | |
+| Introduction to Perl: Testing | May 2011 | | http://goo.gl/QIvvBF | |
+| Automated Browser Interaction Using WWW::Selenium 2011 | | http://goo.gl/N06Kax | |
+| Your Perl is Slow (and it does not have to be) | January 2011 | | http://goo.gl/C57XqG | |
 | [2010](http://houston.pm.org/talks/2010talks/index.html) ||||
-| Publishing CPAN Modules with Dist::Zilla | October 2010 | | | |
-| Making the Computer Work for You | September 2010 | | | |
-| The Musical Instrument Known as Perl | July 2010 | | | |
-| Data Visualization with Perl and SVG | June 2010 | | | |
-| Programming Paradigms in Perl | May 2010 | | | |
-| Introduction to Object Oriented Programming with Moose | April 2010 | | | |
-| Perl Web Frameworks | March 2010 | | | |
+| Filesys::POSIX -- A real, in-memory filesystem written entirely in Perl | November 2011 | | http://goo.gl/jhb5AE | |
+| Publishing CPAN Modules with Dist::Zilla | October 2010 | | http://goo.gl/yW0vqV | |
+| Making the Computer Work for You | September 2010 | | http://goo.gl/VN2zuP | |
+| The Musical Instrument Known as Perl | July 2010 | | http://goo.gl/eSd73D | |
+| Data Visualization with Perl and SVG | June 2010 | | http://goo.gl/SKBgSA | |
+| Programming Paradigms in Perl | May 2010 | | http://goo.gl/E2GEAX | |
+| Introduction to Object Oriented Programming with Moose | April 2010 | | http://goo.gl/VnM5qr | |
+| Perl Web Frameworks | March 2010 | | http://goo.gl/1b8hGD | |
+| Introduction to Perl, Part 2 | Feb 2010 | | http://goo.gl/lmqvLP | |
+| Complete Beginner's Introduction to Perl and the Perl Community | January 2010 | | http://goo.gl/4gU0uQ | |
 | [2009](http://houston.pm.org/talks/2009talks/index.html) ||||
-| Introduction to Perl, Part 2 | Feb 2010 | | | |
-| Complete Beginner's Introduction to Perl and the Perl Community | January 2010 | | | |
 | Higher Order Perl discussion: Recursion | October 2009 | | | |
 | The FUSE File System | August 2009 | | | |
 | Exception Handling in Perl | July 2009 | | | |
