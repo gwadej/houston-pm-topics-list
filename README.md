@@ -56,6 +56,11 @@ Current talk ideas -
 | HMAC key/secret based web API authentication       | Any               | how to use others, set up your own | estrabd   |
 | Implementing two factor authentication on a website| Any               | using Google Auth                  | estrabd   |
 | A beginner's experience with Perl's encryption mods| Any               | (non-)symmetric encryption in Perl | estrabd   |
+
+
+
+| Talk Title                                         | Date         | By Whom  | Shortened URL  |
+|----------------------------------------------------|-------------------|------------------------------------|-----------|
 | Perl and Bioinformatics                            | June 2014    |          | http://goo.gl/tkhonM |
 | Indexing with Sphinx and Perl                      | May 2014     | estrabd  | http://goo.gl/FDGHSy |
 | Beginning Moose                                    | April 2014   |          | http://goo.gl/4cvQUD |
