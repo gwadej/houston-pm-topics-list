@@ -92,7 +92,7 @@ Achived Talks
 | Intro to Dancer | August 2011 | | http://goo.gl/hNlKJn |
 | Cooking with Cobbler | July 2011 | | http://goo.gl/dyCC9P |
 | Introduction to Perl: Testing | May 2011 | | http://goo.gl/QIvvBF |
-| Automated Browser Interaction Using WWW::Selenium 2011 | | http://goo.gl/N06Kax |
+| Automated Browser Interaction Using WWW::Selenium | April 2011 | | http://goo.gl/N06Kax |
 | Your Perl is Slow (and it does not have to be) | January 2011 | | http://goo.gl/C57XqG |
 | Filesys::POSIX -- A real, in-memory filesystem written entirely in Perl | November 2011 | | http://goo.gl/jhb5AE |
 | Publishing CPAN Modules with Dist::Zilla | October 2010 | | http://goo.gl/yW0vqV |
