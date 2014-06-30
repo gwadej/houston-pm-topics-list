@@ -72,7 +72,7 @@ These are talks that have been retired due to having been given recently or deem
 | Introducing Erlang                                 | March 2014   |          | http://goo.gl/vs7r1u | |
 | Pseudo-Random Number Generation - How it Works,... | Feb 2014     |          | http://goo.gl/xco53e | |
 | Migrate ALL THE THINGS                             | January 2014 |          | http://goo.gl/gzGUuV | |
-| [2013](http://houston.pm.org/talks/2013talks/index.html) ||||
+| [2013](http://houston.pm.org/talks/2013talks/index.html) | | | |
 | Bitcoin Payment Processing | November 2013 | | http://goo.gl/Up2xDN | |
 | A JSON parser regex | October 2013 | | http://goo.gl/wt7QsB | |
 | An Introduction to Work Queuing with Redis.pm | August 2013 estrabd | | http://goo.gl/rmpyDv | |
@@ -80,7 +80,7 @@ These are talks that have been retired due to having been given recently or deem
 | Pari/GP and Perl - Past, Present and Future | March 2013  | | http://goo.gl/zqPLw0 | |
 | Auditing CPAN for Security Vulnerabilities | April 2013 | | http://goo.gl/X8kJcV | |
 | A Web-based Defect Management/Tracking System Developed Non-Programmer | January 2013 | | http://goo.gl/pGvOV6 | |
-| [2012](http://houston.pm.org/talks/2012talks/index.html) ||||
+| [2012](http://houston.pm.org/talks/2012talks/index.html) | | | |
 | Automating Daily Tasks | November 2012 gwadej | | http://goo.gl/nYJKUM | |
 | Bag of Tricks | October 2012 | | | |
 | A Small On Line Wellness Business Built Using Perl | September 2012 | | http://goo.gl/zQBvCt | |
@@ -91,7 +91,7 @@ These are talks that have been retired due to having been given recently or deem
 | Advanced Modulinos | March 2012 | | http://goo.gl/mM1jhg | |
 | DistZilla from one newb to another | Feb 2012 | |http://goo.gl/4f7BqY | |
 | Perl Object? | Jan 2012 | | http://goo.gl/pI3XK9 | |
-| [2011](http://houston.pm.org/talks/2011talks/index.html) ||||
+| [2011](http://houston.pm.org/talks/2011talks/index.html) | | | |
 | My Perl Bag of Tricks | November 2011 | | http://goo.gl/Z7aQCr | |
 | The Perl Compiler | October 2011 rurban | | http://goo.gl/xAovYj | |
 | Bit Hacks on IP Ranges | September 2011 | | http://goo.gl/pq5cNO | |
@@ -101,7 +101,7 @@ These are talks that have been retired due to having been given recently or deem
 | Introduction to Perl: Testing | May 2011 | | http://goo.gl/QIvvBF | |
 | Automated Browser Interaction Using WWW::Selenium 2011 | | http://goo.gl/N06Kax | |
 | Your Perl is Slow (and it does not have to be) | January 2011 | | http://goo.gl/C57XqG | |
-| [2010](http://houston.pm.org/talks/2010talks/index.html) ||||
+| [2010](http://houston.pm.org/talks/2010talks/index.html) | | | |
 | Filesys::POSIX -- A real, in-memory filesystem written entirely in Perl | November 2011 | | http://goo.gl/jhb5AE | |
 | Publishing CPAN Modules with Dist::Zilla | October 2010 | | http://goo.gl/yW0vqV | |
 | Making the Computer Work for You | September 2010 | | http://goo.gl/VN2zuP | |
@@ -112,66 +112,66 @@ These are talks that have been retired due to having been given recently or deem
 | Perl Web Frameworks | March 2010 | | http://goo.gl/1b8hGD | |
 | Introduction to Perl, Part 2 | Feb 2010 | | http://goo.gl/lmqvLP | |
 | Complete Beginner's Introduction to Perl and the Perl Community | January 2010 | | http://goo.gl/4gU0uQ | |
-| [2009](http://houston.pm.org/talks/2009talks/index.html) ||||
-| Higher Order Perl discussion: Recursion | October 2009 | | | |
-| The FUSE File System | August 2009 | | | |
-| Exception Handling in Perl | July 2009 | | | |
-| Catalyst, DBIC, and TT for world domination, a preview | May 2009  | | | |
-| SVG from Perl | April 2009 | | | |
-| Discussion of Catalyst/MVC | March 2009 | | | |
-| RRDtool Tips and Traps | Feb 2009 | | | |
-| Programming Editors for Perl | January 2009 | | | |
-| [2008](http://houston.pm.org/talks/2008talks/index.html) ||||
-| Git - The stupid content tracker | October 2008 | | | |
+| [2009](http://houston.pm.org/talks/2009talks/index.html) | | | |
+| Higher Order Perl discussion: Recursion | October 2009 | | N/A | |
+| The FUSE File System | August 2009 | | http://goo.gl/3vcAEd | |
+| Exception Handling in Perl | July 2009 | | http://goo.gl/D40EFe | |
+| Catalyst, DBIC, and TT for world domination, a preview | May 2009  | | http://goo.gl/nAkjjM | |
+| SVG from Perl | April 2009 | | http://goo.gl/Gfn3J5 | |
+| Discussion of Catalyst/MVC | March 2009 | | N/A | |
+| RRDtool Tips and Traps | Feb 2009 | | http://goo.gl/6saJkx | |
+| Programming Editors for Perl | January 2009 | | http://goo.gl/nL0knt | |
+| [2008](http://houston.pm.org/talks/2008talks/index.html) | | | |
+| Git - The stupid content tracker | October 2008 | | http://goo.gl/xCvSSe | |
 | Rakudo Testing Revisited and Open Help Session | August 2008 | | | |
-| Testing Rakudo | July 2008 | | | |
-| Emacs and Screen | June 2008 | | | |
-| The Net::Jabber::Bot Project, continued | Feb 2008 | | | |
-| The Net::Jabber::Bot Project | January 2008 | | | |
-| [2007](http://houston.pm.org/talks/2007talks/index.html) ||||
-| Barely Used Perl | November 2007 | | | |
-| Catalyst/DBIC | October 2007 | | | |
-| Subroutines, Closures, and Coderefs | September 2007 | | | |
-| Moose -It's the new camel | April 2007 | | | |
-| Introduction to Catalyst | Feb 2007 | | | |
-| Creating Perl Modules | January 2007 | | | |
-| [2006](http://houston.pm.org/talks/2006talks/index.html) ||||
-| An Overview of Getopt::Euclid, Smart::Comments, and Log4Perl | November 2006 | | | |
-| Using Perl::Critic to Improve Code | October 2006 | | | |
-| Introduction to PDF::API2 and HTML::Template | September 2006 | | | |
-| Perl 6: an Overview | August 2006 | | | |
-| A Report on YAPC::NA 2006 | July 2006 | | | |
-| n Overview of Subversion and Introduction to Caching | June 2006 | | | |
-| What Every Perl Programmer Should Know: tips, tricks, and common knowledge, part 2 | May 2006 | | | |
-| What Every Perl Programmer Should Know: tips, tricks, and common knowledge | April 2006 | | | |
-| Accessing a USB device from Perl, part 3. | March 2006 | | | |
-| Accessing a USB device from Perl, part 2. | Feb 2006 | | | |
-| Accessing a USB device from Perl | January 2006 | | | |
-| [2005](http://houston.pm.org/talks/2005talks/index.html) ||||
-| Calling Other Languages from Perl | November 2005 | | | |
-| Graphics in Perl | October 2005 | | | |
-| Development Tools for Perl | September 2005 | | | |
-| Text::Query and Getopt::Long | August 2005 | | | |
-| Perl Module: Regexp::Common | July 2005 | | | |
-| Basic/Intermediate Perl regular expressions (part 2 of 2) | June 2005 | | | |
-| Basic/Intermediate Perl regular expressions (part 1 of 2) | May 2005 | | | |
-| Perl Module: PAR | April 2005 | | | |
-| Perl Core Language: References and Quoting | March 2005 | | | |
-| Testing in Perl | Feb 2005 | | | |
-| Intro to Object Oriented Perl | January 2005 | | | |
-| [2004](http://houston.pm.org/talks/2004talks/index.html) ||||
-| vim Tips and Tricks | November 2004 | | | |
-| A Simple Webserver | November 2004 | | | |
-| Intro to Perl DBI | October 2004 | | | |
-| Perl/Tk 101 | September 2004 | | | |
-| CGI.pm - A Perl5 CGI library | August 2004 | | | |
-| The Template Toolkit | July 2004 | | | |
-| Statement Modifiers and Loop Control | June 2004 | | | |
-| Perl Standard Modules | April 2004 | | | |
-| Parsing Command Line Options | March 2004 | | | |
-| Benchmarking Perl Routines | Feb 2004 | | | |
-| [2003](http://houston.pm.org/talks/2003talks/index.html) ||||
-| Strings, Lists and Arrays | August 2003 | | | |
-| Using Perl as a Command Line Tool | July 2003 | | | |
-| Perl Regular Expressions | July 2003 | | | |
-| Jumpstart into Perl | June 2003  | | | |
+| Testing Rakudo | July 2008 | | http://goo.gl/cM0bD6 | |
+| Emacs and Screen | June 2008 | | http://goo.gl/m9mFHL | |
+| The Net::Jabber::Bot Project, continued | Feb 2008 | | http://goo.gl/ormXIV | |
+| The Net::Jabber::Bot Project | January 2008 | | http://goo.gl/9NXQKa | |
+| [2007](http://houston.pm.org/talks/2007talks/index.html) | | | |
+| Barely Used Perl | November 2007 | | http://goo.gl/MsMVqy | |
+| Catalyst/DBIC | October 2007 | | http://goo.gl/83StNj | |
+| Subroutines, Closures, and Coderefs | September 2007 | | http://goo.gl/WiYXEB | |
+| Moose -It's the new camel | April 2007 | | http://goo.gl/2RuYFm | |
+| Introduction to Catalyst | Feb 2007 | | http://goo.gl/aC3HNR | |
+| Creating Perl Modules | January 2007 | | http://goo.gl/FWtCsO | |
+| [2006](http://houston.pm.org/talks/2006talks/index.html) | | | |
+| An Overview of Getopt::Euclid, Smart::Comments, and Log4Perl | November 2006 | | http://goo.gl/zCySLk | |
+| Using Perl::Critic to Improve Code | October 2006 | | http://goo.gl/6APztW | |
+| Introduction to PDF::API2 and HTML::Template | September 2006 | | http://goo.gl/4XCsuR | |
+| Perl 6: an Overview | August 2006 | | http://goo.gl/f6TdY9 | |
+| A Report on YAPC::NA 2006 | July 2006 | | http://goo.gl/EC8Y8e | |
+| An Overview of Subversion and Introduction to Caching | June 2006 | | http://goo.gl/3Vv2Bc | |
+| What Every Perl Programmer Should Know: tips, tricks, and common knowledge, part 2 | May 2006 | | http://goo.gl/FvcwyH | |
+| What Every Perl Programmer Should Know: tips, tricks, and common knowledge | April 2006 | | http://goo.gl/2EnVgp | |
+| Accessing a USB device from Perl, part 3. | March 2006 | | http://goo.gl/c6YXM7 | |
+| Accessing a USB device from Perl, part 2. | Feb 2006 | | http://goo.gl/71EB2Z | |
+| Accessing a USB device from Perl | January 2006 | | http://goo.gl/P4uNsr | |
+| [2005](http://houston.pm.org/talks/2005talks/index.html) | | | |
+| Calling Other Languages from Perl | November 2005 | | http://goo.gl/rNHOhc | |
+| Graphics in Perl | October 2005 | | http://goo.gl/SmNvyn | |
+| Development Tools for Perl | September 2005 | | http://goo.gl/57otOj | |
+| Text::Query and Getopt::Long | August 2005 | | http://goo.gl/B5IXua | |
+| Perl Module: Regexp::Common | July 2005 | | http://goo.gl/Oml1qH | |
+| Basic/Intermediate Perl regular expressions (part 2 of 2) | June 2005 | | http://goo.gl/lqCp7u | |
+| Basic/Intermediate Perl regular expressions (part 1 of 2) | May 2005 | | http://goo.gl/hHdVUj | |
+| Perl Module: PAR | April 2005 | | http://goo.gl/ICrNrP | |
+| Perl Core Language: References and Quoting | March 2005 | | http://goo.gl/7zcNtY | |
+| Testing in Perl | Feb 2005 | | http://goo.gl/yUlTAe | |
+| Intro to Object Oriented Perl | January 2005 | | http://goo.gl/GVPr42 | |
+| [2004](http://houston.pm.org/talks/2004talks/index.html) | | | |
+| vim Tips and Tricks | November 2004 | | N/A | |
+| A Simple Webserver | November 2004 | | http://goo.gl/221H6v | |
+| Intro to Perl DBI | October 2004 | | http://goo.gl/221H6v | |
+| Perl/Tk 101 | September 2004 | | http://goo.gl/6WsBQo | |
+| CGI.pm - A Perl5 CGI library | August 2004 | | http://goo.gl/4k4LTY | |
+| The Template Toolkit | July 2004 | | http://goo.gl/UUYF0f | |
+| Statement Modifiers and Loop Control | June 2004 | | http://goo.gl/ZpwM2r | |
+| Perl Standard Modules | April 2004 | | http://goo.gl/YQRBsQ | |
+| Parsing Command Line Options | March 2004 | | http://goo.gl/9bFMO3 | |
+| Benchmarking Perl Routines | Feb 2004 | | http://goo.gl/5W5t1D | |
+| [2003](http://houston.pm.org/talks/2003talks/index.html) | | | |
+| Strings, Lists and Arrays | August 2003 | | http://goo.gl/GxP8x1 | |
+| Using Perl as a Command Line Tool | July 2003 | | http://goo.gl/LRwyaF | |
+| Perl Regular Expressions | July 2003 | | http://goo.gl/LUsfRb | |
+| Jumpstart into Perl | June 2003  | | http://goo.gl/IKAMfW | |
