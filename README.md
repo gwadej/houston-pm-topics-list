@@ -56,6 +56,7 @@ Current talk ideas -
 | HMAC key/secret based web API authentication       | Any               | how to use others, set up your own | estrabd   |
 | Implementing two factor authentication on a website| Any               | using Google Auth                  | estrabd   |
 | A beginner's experience with Perl's encryption mods| Any               | (non-)symmetric encryption in Perl | estrabd   |
+| Introduction to D lang for the Perl programmer     | Any               | overview of the D language         | estrabd   |
 
 Achived Talks
 =============
