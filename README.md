@@ -18,7 +18,7 @@ Please add your github id if you're generally available to give a talk about som
 Active Topics List
 ==================
 
-Current talk ideas -
+* Note, adding a talk in no way obligates you to give that talk. This list is strictly for a pool of talk ideas.
 
 | Talk Title                                         | Audience Level    | Description                        | Added By  |
 |----------------------------------------------------|-------------------|------------------------------------|-----------|
@@ -57,6 +57,11 @@ Current talk ideas -
 | Implementing two factor authentication on a website| Any               | using Google Auth                  | estrabd   |
 | A beginner's experience with Perl's encryption mods| Any               | (non-)symmetric encryption in Perl | estrabd   |
 | Introduction to D lang for the Perl programmer     | Any               | overview of the D language         | estrabd   |
+| Tie::'ing Things & Stuff                           | Intermediate+     | Tie Scalars, Arrays, Hashes        | estrabd   |
+| Perl Illgut, a guided tour                         | Intermediate+     | Talks about Perl's innards         | estrabd   |
+| A look at the C produced by perlcc                 | Intermediate+     | A walk through of C code output    | estrabd   |
+
+* Note, adding a talk in no way obligates you to give that talk. This list is strictly for a pool of talk ideas.
 
 Achived Talks
 =============
