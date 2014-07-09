@@ -6,8 +6,8 @@ The goal of this repo is to catalog ideas for talks, old and new. Adding a talk 
 If ever anyone wishes to give a talk, but doesn't know about what to talk, this list should provide some ideas.  Furthermore, it may clue someone in that something they know may be of interest to others.
 
 
-Contributing
-============
+How To Contribute
+=================
 
 Please just fork this small repo, make the changes you want, then issue a pull request.
 
