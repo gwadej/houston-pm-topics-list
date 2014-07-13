@@ -1,24 +1,9 @@
-houston-pm-topics-list
-======================
+General Active Topics List
+==========================
 
-Community maintained list of topics and speakers for Houston.pm meetings, but aimed to be generally useful for other Perl Monger groups.
+Community maintained list of topics and speakers for Houston.pm meetings, but aimed to be generally useful for other Perl groups, gatherings, and workshops.
 
 If you add a topic that you would be willing to speak about or see another topic that you would be willing to speak about, please add your github username.
-
-Available Speakers
-=================
-
-Please add your github id if you're generally available to give a talk about something.
-
-   * estrabd
-   * gwadej
-   * rurban
-   * mrallen1  
-
-Active Topics List
-==================
-
-* Note, adding a talk in no way obligates you to give that talk. This list is strictly for a pool of talk ideas.
 
 | Talk Title                                         | Audience Level    | Description                        | Added By  |
 |----------------------------------------------------|-------------------|------------------------------------|-----------|
@@ -63,8 +48,25 @@ Active Topics List
 
 * Note, adding a talk in no way obligates you to give that talk. This list is strictly for a pool of talk ideas.
 
-Achived Talks
-=============
+Houston.pm Section
+==================
+
+Community maintained list of topics and speakers for Houston.pm meetings, but aimed to be generally useful for other Perl Monger groups.
+
+If you add a topic that you would be willing to speak about or see another topic that you would be willing to speak about, please add your github username.
+
+Available Speakers
+=================
+
+Please add your github id if you're generally available to give a talk about something.
+
+   * estrabd
+   * gwadej
+   * rurban
+   * mrallen1  
+
+Achived Houston.pm Talks
+========================
 
 | Talk Title                                         | Date          | By Whom   | Shortened URL        |
 |----------------------------------------------------|---------------|-----------|----------------------|
