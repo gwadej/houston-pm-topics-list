@@ -1,6 +1,8 @@
 General Active Topics List
 ==========================
 
+Note: This list is constantly evolving in content, purpose, and scope. All contributions and suggestions are welcome.
+
 Community maintained list of topics and speakers for Houston.pm meetings, but aimed to be generally useful for other Perl groups, gatherings, and workshops.
 
 If you add a topic that you would be willing to speak about or see another topic that you would be willing to speak about, please add your github username.
