@@ -78,7 +78,7 @@ Achived Talks
 | Bitcoin Payment Processing                         | November 2013 |           | http://goo.gl/Up2xDN |
 | A JSON parser regex                                | October 2013  |           | http://goo.gl/wt7QsB |
 | An Introduction to Work Queuing with Redis.pm      | August 2013   | estrabd   | http://goo.gl/rmpyDv |
-| p2: The Design and VM of a Next Generation Perl (11 = 5+6) | June 2013 rurban  | http://goo.gl/GWTRb9 |
+| p2: The Design and VM of a Next Generation Perl (11 = 5+6) | June 2013 | rurban| http://goo.gl/GWTRb9 |
 | Pari/GP and Perl - Past, Present and Future        | March 2013    |           | http://goo.gl/zqPLw0 |
 | Auditing CPAN for Security Vulnerabilities         | April 2013    |           | http://goo.gl/X8kJcV |
 | A Web-based Defect Management/Tracking System Developed Non-Programmer | January 2013 | | http://goo.gl/pGvOV6 |
