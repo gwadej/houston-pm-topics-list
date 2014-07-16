@@ -47,6 +47,8 @@ If you add a topic that you would be willing to speak about or see another topic
 | Tie::'ing Things & Stuff                           | Intermediate+     | Tie Scalars, Arrays, Hashes        | estrabd   |
 | Perl Illgut, a guided tour                         | Intermediate+     | Talks about Perl's innards         | estrabd   |
 | A look at the C produced by perlcc                 | Intermediate+     | A walk through of C code output    | estrabd   |
+| Idiomatic Perl                                     | Any               | Perl idioms you should know        | gwadej    |
+| The Cobbler's Children                             | Any               | Scratching your own itch every day | gwadej    |
 
 * Note, adding a talk in no way obligates you to give that talk. This list is strictly for a pool of talk ideas.
 
