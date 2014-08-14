@@ -74,6 +74,7 @@ Achived Houston.pm Talks
 
 | Talk Title                                         | Date          | By Whom   | Shortened URL        |
 |----------------------------------------------------|---------------|-----------|----------------------|
+| Upload Your First Module to CPAN                   | August 2014   |           | http://goo.gl/hHgtec |
 | Reading Perl Code: Code Smells                     | July 2014     | gwadej    | http://goo.gl/UpJBHH |
 | Perl and Bioinformatics                            | June 2014     |           | http://goo.gl/tkhonM |
 | Indexing with Sphinx and Perl                      | May 2014      | estrabd   | http://goo.gl/FDGHSy |
