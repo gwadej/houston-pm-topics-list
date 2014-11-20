@@ -74,6 +74,8 @@ Achived Houston.pm Talks
 
 | Talk Title                                         | Date          | By Whom   | Shortened URL        |
 |----------------------------------------------------|---------------|-----------|----------------------|
+| Lightning Talks                                    | November 2014 | assorted  | http://goo.gl/QLwLUN |
+| A Clear Text Explanation of the AES Cipher         | October 2014  |           | http://goo.gl/eJmLUq |
 | Upload Your First Module to CPAN                   | August 2014   |           | http://goo.gl/hHgtec |
 | Reading Perl Code: Code Smells                     | July 2014     | gwadej    | http://goo.gl/UpJBHH |
 | Perl and Bioinformatics                            | June 2014     |           | http://goo.gl/tkhonM |
