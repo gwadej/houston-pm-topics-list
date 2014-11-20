@@ -49,6 +49,10 @@ If you add a topic that you would be willing to speak about or see another topic
 | A look at the C produced by perlcc                 | Intermediate+     | A walk through of C code output    | estrabd   |
 | Idiomatic Perl                                     | Any               | Perl idioms you should know        | gwadej    |
 | The Cobbler's Children                             | Any               | Scratching your own itch every day | gwadej    |
+| Benchmarking in Perl                               | Any               | Why it's bad and we still do it    | gwadej    |
+| Text Logs as a Data Persistence Model              | Any               |                                    | gwadej    |
+| The Dispatch Table                                 | Any               | Technique for organizing code      | gwadej    |
+| The Value Object Pattern                           | Any               | Simple, powerful pattern           | gwadej    |
 
 * Note, adding a talk in no way obligates you to give that talk. This list is strictly for a pool of talk ideas.
 
