@@ -7,52 +7,54 @@ Community maintained list of topics and speakers for Houston.pm meetings, but ai
 
 If you add a topic that you would be willing to speak about or see another topic that you would be willing to speak about, please add your github username.
 
-| Talk Title                                         | Audience Level    | Description                        | Added By  |
-|----------------------------------------------------|-------------------|------------------------------------|-----------|
-| Regular expressions (from Mastering Perl)          | Intermediate+     | lookahead, @-, @+, /x              | estrabd   |
-| Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE             | estrabd   |
-| Introduction to blocks and closures                | Any               | fundamental things with {}         | estrabd   |
-| Top 10 "must see" YAPC Talks of "all time"         | Any               |                                    | estrabd   |
-| Basic parsing from scratch                         | Any               | recursive descent, ll, lr          | estrabd   |
-| Genetic algorithms in Perl - basic concepts        | Any               | basic fitness                      | estrabd   |
-| Dynamic programming concepts in Perl               | Intermediate+     | basic concepts, Perl e.g.          | estrabd   |
-| Perl is not a language, it is liquid Unix^TM       | Any               | not sure yet                       | estrabd   |
-| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                       | estrabd   |
-| Threading with Qore (follow to last Qore talk)     | Any               | not sure yet                       | estrabd   |
-| Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research, targeting OpenMP   | estrabd   |
-| Global Destruction                                 | Intermediate+     | how, costs, issues, why not        | rurban    |
-| types (rperl and other plans)                      | Intermediate+     | why, how                           | rurban    |
-| The Programming Power Tool, Your Editor            | Any               | Why you should grok your editor    | gwadej    |
-| Intermediate vim                                   | Intermediate+     | Getting more out of vim            | gwadej    |
-| Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest | gwadej    |
-| Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          | gwadej    |
-| Markov Chains                                      | Intermediate+     |                                    | gwadej    |
-| List operations in Perl                            | Any               | map, grep, reduce, etc. List::Utils| gwadej    |
-| Roles for Object Composition                       | Any               |                                    | gwadej    |
-| Packaging Perl applications with Docker            | Any               |                                    | gwadej    |
-| Beginning Regular Expressions                      | Any               | Regexp features you should know    | gwadej    |
-| Intermediate Regular Expressions                   | Any               | Get more out of your regexps       | gwadej    |
-| Perl Tips, Tricks, and Traps                       | Any               | Update to older talk               | gwadej    |
-| Functional programming in Perl                     | Intermediate      | higher order Perl (thanks mjd)     | mrallen1  |
-| Getting going with Dist::Zilla                     | Intermediate      | Less CPAN drudgery, more fun       | mrallen1  |
-| Using Roles in Moo(se)                             | Intermediate      | Exploit the power of composition   | mrallen1  |
-| Introduction to Golang for the Perl hacker         | Beginner          | Golang is fun and awesome          | mrallen1  |
-| How your grandpa did OOP in Perl                   | Any               | pre-postmodern-"MOP" OOP in Perl   | estrabd   |
-| Writing scripts as modulinos                       | Any               | dual life modulino scripts, testing| estrabd   |
-| Computer science & Perl                            | Any               | complexity, trees, graph traversal | estrabd   | 
-| HMAC key/secret based web API authentication       | Any               | how to use others, set up your own | estrabd   |
-| Implementing two factor authentication on a website| Any               | using Google Auth                  | estrabd   |
-| A beginner's experience with Perl's encryption mods| Any               | (non-)symmetric encryption in Perl | estrabd   |
-| Introduction to D lang for the Perl programmer     | Any               | overview of the D language         | estrabd   |
-| Tie::'ing Things & Stuff                           | Intermediate+     | Tie Scalars, Arrays, Hashes        | estrabd   |
-| Perl Illgut, a guided tour                         | Intermediate+     | Talks about Perl's innards         | estrabd   |
-| A look at the C produced by perlcc                 | Intermediate+     | A walk through of C code output    | estrabd   |
-| Idiomatic Perl                                     | Any               | Perl idioms you should know        | gwadej    |
-| The Cobbler's Children                             | Any               | Scratching your own itch every day | gwadej    |
-| Benchmarking in Perl                               | Any               | Why it's bad and we still do it    | gwadej    |
-| Text Logs as a Data Persistence Model              | Any               |                                    | gwadej    |
-| The Dispatch Table                                 | Any               | Technique for organizing code      | gwadej    |
-| The Value Object Pattern                           | Any               | Simple, powerful pattern           | gwadej    |
+Under the "Intent" column, add if you are willing to "give" the talk or "want" the talk to be given.
+
+| Talk Title                                         | Audience Level    | Description                        | Added By  | Intent |
+|----------------------------------------------------|-------------------|------------------------------------|-----------|--------|
+| Regular expressions (from Mastering Perl)          | Intermediate+     | lookahead, @-, @+, /x              | estrabd   |  give  |
+| Perl error handing ($!, $?, $@, $^E)               | Intermediate+     | when to use, PROPAGATE             | estrabd   |  give  |
+| Introduction to blocks and closures                | Any               | fundamental things with {}         | estrabd   |  give  |
+| Top 10 "must see" YAPC Talks of "all time"         | Any               |                                    | estrabd   |  give  |
+| Basic parsing from scratch                         | Any               | recursive descent, ll, lr          | estrabd   |  give  |
+| Genetic algorithms in Perl - basic concepts        | Any               | basic fitness                      | estrabd   |  give  |
+| Dynamic programming concepts in Perl               | Intermediate+     | basic concepts, Perl e.g.          | estrabd   |  give  |
+| Perl is not a language, it is liquid Unix^TM       | Any               | not sure yet                       | estrabd   |  give  |
+| Interfacing Perl with? FFI, XS, Alien              | Intermediate+     | not sure yet                       | estrabd   |  give  |
+| Threading with Qore (follow to last Qore talk)     | Any               | not sure yet                       | estrabd   |  give  |
+| Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research, targeting OpenMP   | estrabd   |  give  |
+| Global Destruction                                 | Intermediate+     | how, costs, issues, why not        | rurban    |        |
+| types (rperl and other plans)                      | Intermediate+     | why, how                           | rurban    |        |
+| The Programming Power Tool, Your Editor            | Any               | Why you should grok your editor    | gwadej    |        |
+| Intermediate vim                                   | Intermediate+     | Getting more out of vim            | gwadej    |        |
+| Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest | gwadej    |        |
+| Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          | gwadej    |        |
+| Markov Chains                                      | Intermediate+     |                                    | gwadej    |        |
+| List operations in Perl                            | Any               | map, grep, reduce, etc. List::Utils| gwadej    |        |
+| Roles for Object Composition                       | Any               |                                    | gwadej    |        |
+| Packaging Perl applications with Docker            | Any               |                                    | gwadej    |        |
+| Beginning Regular Expressions                      | Any               | Regexp features you should know    | gwadej    |        |
+| Intermediate Regular Expressions                   | Any               | Get more out of your regexps       | gwadej    |        |
+| Perl Tips, Tricks, and Traps                       | Any               | Update to older talk               | gwadej    |        |
+| Functional programming in Perl                     | Intermediate      | higher order Perl (thanks mjd)     | mrallen1  |        |
+| Getting going with Dist::Zilla                     | Intermediate      | Less CPAN drudgery, more fun       | mrallen1  |        |
+| Using Roles in Moo(se)                             | Intermediate      | Exploit the power of composition   | mrallen1  |        |
+| Introduction to Golang for the Perl hacker         | Beginner          | Golang is fun and awesome          | mrallen1  |        |
+| How your grandpa did OOP in Perl                   | Any               | pre-postmodern-"MOP" OOP in Perl   | estrabd   |  give  |
+| Writing scripts as modulinos                       | Any               | dual life modulino scripts, testing| estrabd   |  give  |
+| Computer science & Perl                            | Any               | complexity, trees, graph traversal | estrabd   |  give  | 
+| HMAC key/secret based web API authentication       | Any               | how to use others, set up your own | estrabd   |  give  |
+| Implementing two factor authentication on a website| Any               | using Google Auth                  | estrabd   |  give  |
+| A beginner's experience with Perl's encryption mods| Any               | (non-)symmetric encryption in Perl | estrabd   |  give  |
+| Introduction to D lang for the Perl programmer     | Any               | overview of the D language         | estrabd   |  give  |
+| Tie::'ing Things & Stuff                           | Intermediate+     | Tie Scalars, Arrays, Hashes        | estrabd   |  give  |
+| Perl Illgut, a guided tour                         | Intermediate+     | Talks about Perl's innards         | estrabd   |  give  |
+| A look at the C produced by perlcc                 | Intermediate+     | A walk through of C code output    | estrabd   |  give  |
+| Idiomatic Perl                                     | Any               | Perl idioms you should know        | gwadej    |        |
+| The Cobbler's Children                             | Any               | Scratching your own itch every day | gwadej    |        |
+| Benchmarking in Perl                               | Any               | Why it's bad and we still do it    | gwadej    |        |
+| Text Logs as a Data Persistence Model              | Any               |                                    | gwadej    |        |
+| The Dispatch Table                                 | Any               | Technique for organizing code      | gwadej    |        |
+| The Value Object Pattern                           | Any               | Simple, powerful pattern           | gwadej    |        |
 
 * Note, adding a talk in no way obligates you to give that talk. This list is strictly for a pool of talk ideas.
 
@@ -76,7 +78,7 @@ Please add your github id if you're generally available to give a talk about som
 Achived Houston.pm Talks
 ========================
 
-| Talk Title                                         | Date          | By Whom   | Shortened URL        |
+| Talk Title                                         | Date          | By Whom   | Shortened URL         |
 |----------------------------------------------------|---------------|-----------|----------------------|
 | Lightning Talks                                    | November 2014 | assorted  | http://goo.gl/QLwLUN |
 | A Clear Text Explanation of the AES Cipher         | October 2014  |           | http://goo.gl/eJmLUq |
@@ -96,7 +98,7 @@ Achived Houston.pm Talks
 | Auditing CPAN for Security Vulnerabilities         | April 2013    |           | http://goo.gl/X8kJcV |
 | A Web-based Defect Management/Tracking System Developed Non-Programmer | January 2013 | | http://goo.gl/pGvOV6 |
 | Automating Daily Tasks                             | November 2012 |   gwadej  | http://goo.gl/nYJKUM |
-| Bag of Tricks                                      | October 2012  |           | N/A                  |
+| Bag of Tricks                                      | October 2012  |           | N/A                   |
 | A Small On Line Wellness Business Built Using Perl | September 2012|           | http://goo.gl/zQBvCt |
 | Intro to Git for Perl Hackers                      | July 2012     | mrallen1  | http://goo.gl/CkYeUs |
 | Perl Unit Testing: Tools and Techniques            | June 2012     | gwadej    | http://goo.gl/gOz5ly |
@@ -124,16 +126,16 @@ Achived Houston.pm Talks
 | Perl Web Frameworks                                | March 2010    |           | http://goo.gl/1b8hGD |
 | Introduction to Perl, Part 2                       | Feb 2010      |           | http://goo.gl/lmqvLP |
 | Complete Beginner's Introduction to Perl and the Perl Community | January 2010 | | http://goo.gl/4gU0uQ |
-| Higher Order Perl discussion: Recursion            | October 2009  |           | N/A                  |
+| Higher Order Perl discussion: Recursion            | October 2009  |           | N/A                   |
 | The FUSE File System                               | August 2009   |           | http://goo.gl/3vcAEd |
 | Exception Handling in Perl                         | July 2009     |           | http://goo.gl/D40EFe |
 | Catalyst, DBIC, and TT for world domination, a preview | May 2009  |           | http://goo.gl/nAkjjM |
 | SVG from Perl                                      | April 2009    |           | http://goo.gl/Gfn3J5 |
-| Discussion of Catalyst/MVC                         | March 2009    |           | N/A                  |
+| Discussion of Catalyst/MVC                         | March 2009    |           | N/A                   |
 | RRDtool Tips and Traps                             | Feb 2009      |           | http://goo.gl/6saJkx |
 | Programming Editors for Perl                       | January 2009  |           | http://goo.gl/nL0knt |
 | Git - The stupid content tracker                   | October 2008  |           | http://goo.gl/xCvSSe |
-| Rakudo Testing Revisited and Open Help Session     | August 2008   |           | N/A                  |
+| Rakudo Testing Revisited and Open Help Session     | August 2008   |           | N/A                   |
 | Testing Rakudo                                     | July 2008     |           | http://goo.gl/cM0bD6 |
 | Emacs and Screen                                   | June 2008     |           | http://goo.gl/m9mFHL |
 | The Net::Jabber::Bot Project, continued            | Feb 2008      |           | http://goo.gl/ormXIV |
@@ -166,7 +168,7 @@ Achived Houston.pm Talks
 | Perl Core Language: References and Quoting         | March 2005    |           | http://goo.gl/7zcNtY |
 | Testing in Perl                                    | Feb 2005      |           | http://goo.gl/yUlTAe |
 | Intro to Object Oriented Perl                      | January 2005  |           | http://goo.gl/GVPr42 |
-| vim Tips and Tricks                                | November 2004 |           | N/A                  |
+| vim Tips and Tricks                                | November 2004 |           | N/A                   |
 | A Simple Webserver                                 | November 2004 |           | http://goo.gl/221H6v |
 | Intro to Perl DBI                                  | October 2004  |           | http://goo.gl/221H6v |
 | Perl/Tk 101                                        | September 2004|           | http://goo.gl/6WsBQo |
