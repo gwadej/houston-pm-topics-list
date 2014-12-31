@@ -24,17 +24,17 @@ Under the "Intent" column, add if you are willing to "give" the talk or "want" t
 | Interfacing Perl with threaded libs (FFI?)         | Intermediate+     | needs research, targeting OpenMP   | estrabd   |  give  |
 | Global Destruction                                 | Intermediate+     | how, costs, issues, why not        | rurban    |        |
 | types (rperl and other plans)                      | Intermediate+     | why, how                           | rurban    |        |
-| The Programming Power Tool, Your Editor            | Any               | Why you should grok your editor    | gwadej    |        |
-| Intermediate vim                                   | Intermediate+     | Getting more out of vim            | gwadej    |        |
-| Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest | gwadej    |        |
-| Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          | gwadej    |        |
-| Markov Chains                                      | Intermediate+     |                                    | gwadej    |        |
-| List operations in Perl                            | Any               | map, grep, reduce, etc. List::Utils| gwadej    |        |
-| Roles for Object Composition                       | Any               |                                    | gwadej    |        |
-| Packaging Perl applications with Docker            | Any               |                                    | gwadej    |        |
-| Beginning Regular Expressions                      | Any               | Regexp features you should know    | gwadej    |        |
-| Intermediate Regular Expressions                   | Any               | Get more out of your regexps       | gwadej    |        |
-| Perl Tips, Tricks, and Traps                       | Any               | Update to older talk               | gwadej    |        |
+| The Programming Power Tool, Your Editor            | Any               | Why you should grok your editor    | gwadej    |  give  |
+| Intermediate vim                                   | Intermediate+     | Getting more out of vim            | gwadej    |  give  |
+| Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest | gwadej    |  give  |
+| Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          | gwadej    |  give  |
+| Markov Chains                                      | Intermediate+     |                                    | gwadej    |  want  |
+| List operations in Perl                            | Any               | map, grep, reduce, etc. List::Utils| gwadej    |  give  |
+| Roles for Object Composition                       | Any               |                                    | gwadej    |  want  |
+| Packaging Perl applications with Docker            | Any               |                                    | gwadej    |  want  |
+| Beginning Regular Expressions                      | Any               | Regexp features you should know    | gwadej    |  give  |
+| Intermediate Regular Expressions                   | Any               | Get more out of your regexps       | gwadej    |  give  |
+| Perl Tips, Tricks, and Traps                       | Any               | Update to older talk               | gwadej    |  give  |
 | Functional programming in Perl                     | Intermediate      | higher order Perl (thanks mjd)     | mrallen1  |        |
 | Getting going with Dist::Zilla                     | Intermediate      | Less CPAN drudgery, more fun       | mrallen1  |        |
 | Using Roles in Moo(se)                             | Intermediate      | Exploit the power of composition   | mrallen1  |        |
@@ -49,12 +49,13 @@ Under the "Intent" column, add if you are willing to "give" the talk or "want" t
 | Tie::'ing Things & Stuff                           | Intermediate+     | Tie Scalars, Arrays, Hashes        | estrabd   |  give  |
 | Perl Illgut, a guided tour                         | Intermediate+     | Talks about Perl's innards         | estrabd   |  give  |
 | A look at the C produced by perlcc                 | Intermediate+     | A walk through of C code output    | estrabd   |  give  |
-| Idiomatic Perl                                     | Any               | Perl idioms you should know        | gwadej    |        |
-| The Cobbler's Children                             | Any               | Scratching your own itch every day | gwadej    |        |
-| Benchmarking in Perl                               | Any               | Why it's bad and we still do it    | gwadej    |        |
-| Text Logs as a Data Persistence Model              | Any               |                                    | gwadej    |        |
-| The Dispatch Table                                 | Any               | Technique for organizing code      | gwadej    |        |
-| The Value Object Pattern                           | Any               | Simple, powerful pattern           | gwadej    |        |
+| Idiomatic Perl                                     | Any               | Perl idioms you should know        | gwadej    |  give  |
+| The Cobbler's Children                             | Any               | Scratching your own itch every day | gwadej    |  give  |
+| Benchmarking in Perl                               | Any               | Why it's bad and we still do it    | gwadej    |  give  |
+| Text Logs as a Data Persistence Model              | Any               |                                    | gwadej    |  give  |
+| The Dispatch Table                                 | Any               | Technique for organizing code      | gwadej    |  give  |
+| Validation and the Value Object Pattern            | Any               | Simple, powerful pattern           | gwadej    |  give  |
+| Best Practices Gone Bad                            | Any               | Bad implementation of good ideas   | gwadej    |  give  |
 
 * Note, adding a talk in no way obligates you to give that talk. This list is strictly for a pool of talk ideas.
 
