@@ -29,7 +29,6 @@ Under the "Intent" column, add if you are willing to "give" the talk or "want" t
 | Introduction to 3D Printing                        | Any               | Not Perl, but possibly of interest | gwadej    |  give  |
 | Manipulating GCode with Perl                       | Any               | Perl for 3D Printing help          | gwadej    |  give  |
 | Markov Chains                                      | Intermediate+     |                                    | gwadej    |  want  |
-| List operations in Perl                            | Any               | map, grep, reduce, etc. List::Utils| gwadej    |  give  |
 | Roles for Object Composition                       | Any               |                                    | gwadej    |  want  |
 | Packaging Perl applications with Docker            | Any               |                                    | gwadej    |  want  |
 | Beginning Regular Expressions                      | Any               | Regexp features you should know    | gwadej    |  give  |
@@ -79,8 +78,9 @@ Please add your github id if you're generally available to give a talk about som
 Achived Houston.pm Talks
 ========================
 
-| Talk Title                                         | Date          | By Whom   | Shortened URL         |
+| Talk Title                                         | Date          | By Whom   | Shortened URL        |
 |----------------------------------------------------|---------------|-----------|----------------------|
+| Perl List Operations                               | July 2015     | gwadej    | http://goo.gl/QG1uQJ |
 | Lightning Talks                                    | November 2014 | assorted  | http://goo.gl/QLwLUN |
 | A Clear Text Explanation of the AES Cipher         | October 2014  |           | http://goo.gl/eJmLUq |
 | Upload Your First Module to CPAN                   | August 2014   |           | http://goo.gl/hHgtec |
